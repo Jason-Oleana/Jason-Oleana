@@ -4,8 +4,7 @@ My name is Jason Oleana,
 I am an enthusiastic Data Scientist from the Netherlands.
 
 Experience: 
-- Supervised learning
-- Unsupervised learning
+- Write & train ML & DL models
 - Build & deploy [Rasa](https://rasa.com/) bots
 - Train, push & use Huggingface🤗 models
 - Conversational AI💬🔊🤖
