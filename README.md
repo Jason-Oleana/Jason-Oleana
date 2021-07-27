@@ -5,11 +5,12 @@ I am an enthusiastic Data Scientist from the Netherlands.
 
 Experience: 
 - Write & train ML & DL models
-- Build & deploy [Rasa](https://rasa.com/) bots
+- Build & deploy [Rasa](https://rasa.com/) bots <img src="https://user-images.githubusercontent.com/50959934/127144328-641960dd-170e-4937-a2fb-35f30a4f0107.png" width="20" height="20">
 - Train, push & use Huggingface🤗 models
 - Conversational AI💬🔊🤖
 - Deploy ML & DL models as a REST API🚀
 - Digital Ocean, AWS, GCP ☁️
+- NGINX basics <img src="https://user-images.githubusercontent.com/50959934/127143881-e82cbbe2-e262-4359-9669-35301a286f00.png" width="20" height="20">
 - Deploy Docker containers🐋
 
 Degree🎓: 
