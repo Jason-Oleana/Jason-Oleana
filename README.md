@@ -10,7 +10,8 @@ Experience:
 - Conversational AI💬🔊🤖
 - Deploy ML & DL models as a REST API🚀
 - Digital Ocean, AWS, GCP ☁️
-- NGINX basics <img src="https://user-images.githubusercontent.com/50959934/127143881-e82cbbe2-e262-4359-9669-35301a286f00.png" width="20" height="20">
+- Basics of CI/CD♾️
+- Basics of NGINX <img src="https://user-images.githubusercontent.com/50959934/127143881-e82cbbe2-e262-4359-9669-35301a286f00.png" width="20" height="20">
 - Deploy Docker containers🐋
 
 Degree🎓: 
