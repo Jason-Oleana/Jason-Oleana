@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+My name is Jason Oleana, 
+I am an enthusiastic Data Scientist from the Netherlands.
+
+Experience: 
+- Conversational AI 💬🔊🤖
+- Build & deploy Rasa bots 🤖
+- web-based voice assistants 💬🔊🤖
+- Supervised learning
+- Unsupervised learning 
+- Deploy ML & DL models as a REST API🚀
+- Digital Ocean, AWS, GCP ☁️
+- Deploy Docker containers🐋
+
+Degree🎓: 
+- MSc Data Science & Society
+
+Contact📫:
+- email: jason@geniusvoice.ai
+- website: www.geniusvoice.ai
+
+
 <!--
 **Jason-Oleana/Jason-Oleana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
