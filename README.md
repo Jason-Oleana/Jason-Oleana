@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-My name is Jason Oleana, 
-I am an enthusiastic Data Scientist from the Netherlands.
+My name is Jason Oleana,
+
+As a Co-Founder and Data Scientist specialized in NLP, I am passionate about the possibilities of (large) language models.<br>
+At Genius Voice, we help companies implement advanced Conversational AI solutions.
 
 Experience: 
 - Write & train ML & DL models
